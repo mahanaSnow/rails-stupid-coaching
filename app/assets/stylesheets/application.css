@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+/* app/assets/stylesheets/application.css */
+body {
+  background-color: rgb(86, 95, 105);
+}
+
+p {
+  color: rgb(84, 70, 70);
+  }
